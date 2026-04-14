@@ -16,7 +16,7 @@
 
 ## Featured Project
 
-### [CiteCraft](https://your-website-link-here) — Section-aware RAG for academic research
+### [CiteCraft](https://https://cite-craft.vercel.app/) — Section-aware RAG for academic research
 
 > React · FastAPI · PostgreSQL · Transformers · Railway · Vercel
 
