@@ -3,7 +3,7 @@
 
 **DevOps · ML/AI · Full-Stack**
 
-*Pre-final year student obsessed with the space between ML research and production systems. I build the systems behind the models — deployment pipelines, scalable APIs, and the infra that turns experiments into products. Currently seeking internships where I can push the boundary between MLOps and real-world AI deployment.*
+*Pre-final year student obsessed with the space between ML research and production systems. I like to build the systems behind a models- deployment pipelines, scalable APIs, and the infra that turns experiments into products. Currently seeking internships where I can push the boundary between MLOps and real-world AI deployment.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanya-gupta-7a8366281/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:guptasanya366@gmail.com)
