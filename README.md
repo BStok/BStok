@@ -24,13 +24,13 @@
 - Engineered a comparative analysis engine with per-cell RAG retrieval and direct source attribution — **100% verifiable** AI-generated comparisons backed by original paper snippets
 - Deployed full-stack with JWT auth, JSONB embedding storage, and multi-cloud setup across Railway and Vercel
 
-### [Embeddings Visualizer](https://bstok.github.io/Embeddings-Visualizer/):  Interactive 3D Map of everyday words vector embeddings
+### [Embeddings Visualizer](https://bstok.github.io/Embeddings-Visualizer/):  Interactive 3D Map of 60K+ vector embeddings
 
-> Javascript . HTML . CSS . Word2Vec
+> Javascript . React . WebGL . Vite . Word2Vec
 
-- The visualiser turns word embeddings into an interactive 3D map. Words that are used in similar ways appear near each other, so you can search, hover, and move through language like a visible landscape.
-
-- Loads local graph assets: labels, positions, links, and manifest data.
+- Interactive 3D word map built with WebGL and React. 
+- Renders 60k+ word nodes from precomputed binary graph files.
+- React handles UI while WebGL handles the point cloud, keeping navigation smooth at scale
 ---
 
 ## Currently Building
