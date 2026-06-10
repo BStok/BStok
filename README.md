@@ -13,9 +13,9 @@
 
 ---
 
-## Featured Project
+## Featured Projects
 
-### [CiteCraft](https://https://cite-craft.vercel.app/) — Section-aware RAG for academic research
+### [CiteCraft](https://https://cite-craft.vercel.app/):  Section-aware RAG for academic research
 
 > React · FastAPI · PostgreSQL · Transformers · Railway · Vercel
 
@@ -24,6 +24,13 @@
 - Engineered a comparative analysis engine with per-cell RAG retrieval and direct source attribution — **100% verifiable** AI-generated comparisons backed by original paper snippets
 - Deployed full-stack with JWT auth, JSONB embedding storage, and multi-cloud setup across Railway and Vercel
 
+### [Embeddings Visualizer](https://bstok.github.io/Embeddings-Visualizer/):  Interactive 3D Map of everyday words vector embeddings
+
+> Javascript . HTML . CSS . Word2Vec
+
+- The visualiser turns word embeddings into an interactive 3D map. Words that are used in similar ways appear near each other, so you can search, hover, and move through language like a visible landscape.
+
+- Loads local graph assets: labels, positions, links, and manifest data.
 ---
 
 ## Currently Building
